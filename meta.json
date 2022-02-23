@@ -1,11 +1,9 @@
 {
     "jurisdiction": {
-        "name": "XXX",
-        "id": "Qxxx"
+        "name": "Luhansk People's Republic",
+        "id": "Q16746854"
     },
     "cabinet": {
-        "id": "Qxxx",
-        "start": "YYYY-MM-DD",
-        "parent": "Qxxx"
+        "parent": "Q19916562"
     }
 }
