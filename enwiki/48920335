@@ -82,6 +82,10 @@
       ],
       "templates": [
         {
+          "description": "Prime-minister of the Luhansk People's Republic",
+          "template": "short description"
+        },
+        {
           "list": [
             "Ivanovich",
             "Kozlov"
