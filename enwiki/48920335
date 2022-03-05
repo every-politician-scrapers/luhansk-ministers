@@ -173,7 +173,7 @@
             ]
           },
           "allegiance": {
-            "text": "🇺🇦 Ukraine Luhansk People's Republic",
+            "text": "🇺🇦 Ukraine (1994-2014) Lugansk People's Republic (2014-)",
             "links": [
               {
                 "text": "🇺🇦",
@@ -185,6 +185,7 @@
                 "page": "Ukraine"
               },
               {
+                "text": "Lugansk People's Republic",
                 "type": "internal",
                 "page": "Luhansk People's Republic"
               }
