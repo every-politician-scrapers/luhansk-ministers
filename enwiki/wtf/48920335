@@ -1,0 +1,330 @@
+{
+  "title": "Sergey Kozlov (politician)",
+  "pageID": 48920335,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "People from Krasnodon",
+    "Ukrainian defectors",
+    "Ukrainian Air Force officers",
+    "Ukrainian State Emergency Service personnel",
+    "Pro-Russian people of the war in Donbas",
+    "Ukrainian collaborators with Russia",
+    "People of the Luhansk People's Republic"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sergey Ivanovich Kozlov (born 7 November 1963) is a politician from the Lugansk region, who has served as the Prime Minister of the Lugansk People’s Republic since 2015.",
+              "links": [
+                {
+                  "text": "Lugansk region",
+                  "type": "internal",
+                  "page": "Luhansk Oblast"
+                },
+                {
+                  "text": "Lugansk People’s Republic",
+                  "type": "internal",
+                  "page": "Luhansk People's Republic"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sergey Ivanovich Kozlov"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is a major general in the People's Militia of Donbas, which he joined in response to the 2014 Ukrainian Revolution, followed by the LPR's declaration of independence.",
+              "links": [
+                {
+                  "text": "major general",
+                  "type": "internal",
+                  "page": "major general"
+                },
+                {
+                  "text": "People's Militia of Donbas",
+                  "type": "internal",
+                  "page": "Russian separatist forces in Donbas"
+                },
+                {
+                  "text": "2014 Ukrainian Revolution",
+                  "type": "internal",
+                  "page": "Revolution of Dignity"
+                },
+                {
+                  "text": "LPR's declaration of independence",
+                  "type": "internal",
+                  "page": "2014 pro-Russian unrest in Ukraine"
+                }
+              ]
+            },
+            {
+              "text": "Prior to his defection, he served in Ukraine's State Emergency Service.",
+              "links": [
+                {
+                  "text": "State Emergency Service",
+                  "type": "internal",
+                  "page": "State Emergency Service of Ukraine"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ukrainian separatist leader; Prime Minister of the Luhansk People's Republic",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Ivanovich",
+            "Kozlov"
+          ],
+          "lang": "Eastern Slavic",
+          "template": "family name hatnote"
+        },
+        {
+          "date": "May 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "May 2022",
+          "template": "use british english"
+        },
+        {
+          "year": "1963",
+          "month": "11",
+          "day": "7",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Сергей Иванович Козлов Сергій Іванович Козлов"
+          ],
+          "template": "efn"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sergey Ivanovich Kozlov"
+          },
+          "image": {
+            "text": "Сергей Козлов ЛНР 2018.png"
+          },
+          "caption": {
+            "text": "Kozlov in 2018"
+          },
+          "office": {
+            "text": "Prime Minister of the Luhansk People's Republic",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister of the Luhansk People's Republic"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "26 December 2015"
+          },
+          "president": {
+            "text": "Igor Plotnitsky Leonid Pasechnik",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Igor Plotnitsky"
+              },
+              {
+                "type": "internal",
+                "page": "Leonid Pasechnik"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Gennadiy Tsypkalov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gennadiy Tsypkalov"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 7, 1963"
+          },
+          "birth_place": {
+            "text": "Krasnodon, Ukrainian SSR, Soviet Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Krasnodon"
+              },
+              {
+                "text": "Ukrainian SSR",
+                "type": "internal",
+                "page": "Ukrainian Soviet Socialist Republic"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "party": {
+            "text": "Peace for Luhansk Region",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peace for Luhansk Region"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇺🇦 Ukraine (1994–2014) Luhansk People's Republic (2014–present)",
+            "links": [
+              {
+                "text": "🇺🇦",
+                "type": "internal",
+                "page": "ukraine"
+              },
+              {
+                "type": "internal",
+                "page": "Ukraine"
+              },
+              {
+                "type": "internal",
+                "page": "Luhansk People's Republic"
+              }
+            ]
+          },
+          "branch": {
+            "text": "DSNS_emblem_2016.svg State Emergency Service of Ukraine (DSNS) Emblem of the People's militia of Lugansk People's Republic.svg People's Militia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "State Emergency Service of Ukraine"
+              },
+              {
+                "text": "People's Militia",
+                "type": "internal",
+                "page": "Russian separatist forces in Donbas",
+                "anchor": "Luhansk_People's_Republic"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1994–present"
+          },
+          "rank": {
+            "text": "Colonel (Ukraine) Major general (LPR)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Colonel"
+              },
+              {
+                "type": "internal",
+                "page": "Major general"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Prior to his appointment, he held the position of the vice-commander of the Corps of the Republic.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Corps"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1981, Kozlov enrolled in the Voroshilovgrad Higher Military Aviation School of Navigators.",
+              "links": [
+                {
+                  "text": "Voroshilovgrad Higher Military Aviation School of Navigators",
+                  "type": "internal",
+                  "page": "Lugansk Higher Military Aviation School of Navigators"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 1994 to 2005, Kozlov served in the State Emergency Service of Ukraine.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "State Emergency Service of Ukraine"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Правительство ЛНР возглавил Сергей Козлов",
+          "url": "http://www.vesti.ru/doc.html?id=2702935",
+          "agency": "Vesti",
+          "date": "26 December 2015",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Notes",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "noteslist"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "heads of government of republics"
+        },
+        {
+          "template": "war in donbas"
+        },
+        {
+          "template": "ukraine-politician-stub"
+        }
+      ]
+    }
+  ]
+}
