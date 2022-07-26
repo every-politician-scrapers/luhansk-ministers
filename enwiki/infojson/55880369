@@ -1,0 +1,35 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of State Security",
+        "Luhansk People’s Republic"
+      ],
+      "stated_as": "Minister of State Security of the Lugansk People's Republic"
+    },
+    "P580": "2014-10-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Post established"
+    },
+    "P582": "2017-11-28"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Head of the Luhansk People's Republic"
+    },
+    "P1545": "3",
+    "P580": "2018-11-21",
+    "P1365": {
+      "links": [
+        "Igor Plotnitsky"
+      ],
+      "stated_as": "Igor Plotnitsky"
+    }
+  }
+]
